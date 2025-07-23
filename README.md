@@ -3,6 +3,7 @@
 
 J. Huang, B. Xue, Y. Sun, and M. Zhang, “A flexible variable-length particle swarm optimization approach to convolutional neural network architecture design,” in 2021 IEEE Congress on Evolutionary Computation (CEC), 2021, pp. 934–941.
 
+<mark>This paper was nominated for the best student paper award at IEEE CEC 2021.</mark>
 
 ## Citations
 
